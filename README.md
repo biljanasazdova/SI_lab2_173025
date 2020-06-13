@@ -1,5 +1,7 @@
 Втора лабораториска вежба по Софтверско инженерство
+
 Билјана Саздова, бр. на индекс 173025
+
 Група на код:
 Ја добив групата на код 4
 
@@ -14,7 +16,7 @@ Control Flow Graph
 
 Тест случаи според критериумот Every statement и Every Branch criterium	
 1.User=null	
-2.user.username=null, user.password=null	
+2.user.username=null, user.password=null
 3.user.username=Biljana,user.password=bile	
 4.user.username=Biljana,user.pasword=biljanaa	
 5.user.username=Biljana,user.password=biljana1	
